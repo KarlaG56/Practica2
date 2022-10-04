@@ -1,10 +1,8 @@
-import React from 'react'
+import React from "react";
+import Login from './componentes/molecules/Login'
 import ReactDOM from 'react-dom/client'
-import App from './App'
-import './index.css'
+
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+  <Login/>
 )
