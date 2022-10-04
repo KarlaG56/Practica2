@@ -12,3 +12,5 @@ function Longin(){
         </div>
     );
 }
+
+export default Longin;
