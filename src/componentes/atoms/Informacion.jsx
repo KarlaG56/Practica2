@@ -1,3 +1,4 @@
+import '../../assets/styles/atoms.css'
 function Informacion(props){
     return (
         <>
